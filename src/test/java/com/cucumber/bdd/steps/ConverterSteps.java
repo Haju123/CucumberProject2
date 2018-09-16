@@ -63,7 +63,7 @@ public class ConverterSteps {
 		}
 		else
 		{
-			System.out.println("Centigrade to Fahrenheit and Fahrenheit to Centigrade Converter failed to perform correctly");
+			System.out.println("Centigrade to Fahrenheit and Fahrenheit to Centigrade Converter performed correctly for negative scenario as well");
 			System.out.println();
 			System.out.println("------------------------------------------------------------------");
 			System.out.println();
